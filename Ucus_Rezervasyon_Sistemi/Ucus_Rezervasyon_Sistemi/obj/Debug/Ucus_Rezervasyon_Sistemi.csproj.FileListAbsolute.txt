@@ -1,0 +1,10 @@
+D:\Murat Yücedağ dersler\C#\Udemy\1\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\bin\Debug\Ucus_Rezervasyon_Sistemi.exe.config
+D:\Murat Yücedağ dersler\C#\Udemy\1\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\bin\Debug\Ucus_Rezervasyon_Sistemi.exe
+D:\Murat Yücedağ dersler\C#\Udemy\1\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\bin\Debug\Ucus_Rezervasyon_Sistemi.pdb
+D:\Murat Yücedağ dersler\C#\Udemy\1\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\obj\Debug\Ucus_Rezervasyon_Sistemi.csprojAssemblyReference.cache
+D:\Murat Yücedağ dersler\C#\Udemy\1\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\obj\Debug\Ucus_Rezervasyon_Sistemi.Form1.resources
+D:\Murat Yücedağ dersler\C#\Udemy\1\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\obj\Debug\Ucus_Rezervasyon_Sistemi.Properties.Resources.resources
+D:\Murat Yücedağ dersler\C#\Udemy\1\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\obj\Debug\Ucus_Rezervasyon_Sistemi.csproj.GenerateResource.cache
+D:\Murat Yücedağ dersler\C#\Udemy\1\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\obj\Debug\Ucus_Rezervasyon_Sistemi.csproj.CoreCompileInputs.cache
+D:\Murat Yücedağ dersler\C#\Udemy\1\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\obj\Debug\Ucus_Rezervasyon_Sistemi.exe
+D:\Murat Yücedağ dersler\C#\Udemy\1\Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi\obj\Debug\Ucus_Rezervasyon_Sistemi.pdb
